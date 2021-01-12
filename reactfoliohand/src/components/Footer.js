@@ -10,19 +10,19 @@ function Footer() {
           thank you for coming by
         </p>
       </section>
-      <div class='footer-links'>
+      <div className='footer-links'>
 
       </div>
-      <section class='social-media'>
-        <div class='social-media-wrap'>
-          <div class='footer-logo'>
+      <section className='social-media'>
+        <div className='social-media-wrap'>
+          <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               CO
-              <i class='fab fa-typo3' />
+              <i className='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'> © 2020</small>
-          <div class='social-icons'>
+          <small className='website-rights'> © 2020</small>
+          <div className='social-icons'>
           </div>
         </div>
       </section>

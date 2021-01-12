@@ -12,7 +12,7 @@ function Contact() {
       
       <Link to='/' className='social-logo'>
        CO 
-       <i class='fab fa fa-typo3' />
+       <i className='fab fa fa-typo3' />
       </Link>
 
 
