@@ -41,7 +41,7 @@ function Navbar() {
                 Home
               </Link>
             </li>
-            <li className='nav-item'>
+            {/* <li className='nav-item'>
               <Link
                 to='/resume'
                 className='nav-links'
@@ -49,9 +49,9 @@ function Navbar() {
               >
                 Resume
               </Link>
-            </li>
+            </li> */}
 
-            <li>
+            {/* <li>
               <Link
                 to='/Contact'
                 className='nav-links-mobile'
@@ -59,7 +59,7 @@ function Navbar() {
               >
                 Contact
               </Link>
-            </li>
+            </li> */}
           </ul>
           {button && <Button buttonStyle='btn--outline'>Contact</Button>}
         </div>
