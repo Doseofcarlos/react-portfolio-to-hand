@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "title": "Employee Directory",
+      "shortDescription": "a directory that helps you filer your employees",
+      "image": "images/projectimg3.png",
+      "imageText": "employee-directory",
+      "githubURL": "https://github.com/Doseofcarlos/co-employee-directory",
+      "websiteURL": "https://co-employee-directory.herokuapp.com/"
+    }
+  ]
